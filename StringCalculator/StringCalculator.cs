@@ -50,6 +50,7 @@ namespace StringCalculator
             return result;
         }
 
+        
         private static bool IsGreaterThanThousand(int nn) => nn > 1000;
 
 
